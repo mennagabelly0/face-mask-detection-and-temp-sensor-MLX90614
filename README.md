@@ -5,7 +5,7 @@
 - PUTTY
 - VNC Viewer
 
-##Hardware Requirements to run project from Raspberry pi in PC
+## Hardware Requirements to run project from Raspberry pi in PC
 
 - Rspberry-pi 4
 - Camira pi
